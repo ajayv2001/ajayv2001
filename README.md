@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Advanced System Design & Cloud Technologies**
 - 💬 Ask me about **Full Stack Development, MERN Stack, Java Full Stack, Microservices**
 - 📫 How to reach me: **ajayvnair61@gmail.com**
-- 📄 My Resume: [Ajay V Resume](https://drive.google.com/file/d/1kv743Iynj7AGRttRB3Xn-g998K3Y8iiR/view?usp=sharing)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1kv743Iynj7AGRttRB3Xn-g998K3Y8iiR/view?usp=sharing)
 
 ---
 
