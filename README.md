@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/ajay-v-071986227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajay V" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ajayv10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/loki200fcvh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="https://github.com/ajayv2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/ajayv2001" target="blank"><img align="center" src="https://www.google.com/imgres?q=github%20icon&imgurl=https%3A%2F%2Fimg.favpng.com%2F20%2F3%2F17%2Fgithub-computer-icons-logo-repository-png-favpng-3D6iEY0b391hz9PYJZqnvKTLT.jpg&imgrefurl=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fgithub-github-logo-repository-png%2FN7Jw8tCn&docid=n2EHNtDQrBflkM&tbnid=VRgZj9jUgJMV0M&vet=12ahUKEwiWsazhy_qOAxV-VWwGHcdtM2oQM3oECBQQAA..i&w=820&h=820&hcb=2&ved=2ahUKEwiWsazhy_qOAxV-VWwGHcdtM2oQM3oECBQQAA" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
