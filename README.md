@@ -6,7 +6,6 @@
 - 💬 Ask me about **Full Stack Development, MERN Stack, Java Full Stack, Microservices**
 - 📫 How to reach me: **ajayvnair61@gmail.com**
 - 📄 My Resume: [Ajay V Resume](https://drive.google.com/file/d/1kv743Iynj7AGRttRB3Xn-g998K3Y8iiR/view?usp=sharing)
-- ⚡ Fun fact: *I love building scalable apps with real-time capabilities*
 
 ---
 
@@ -51,4 +50,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayv2001&show_icons=true&locale=en&layout=compact" alt="ajayv2001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayv2001&show_icons=true&locale=en" alt="ajayv2001" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayv2001&" alt="ajayv2001" /></p>
