@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/ajay-v-071986227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajay V" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ajayv10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/loki200fcvh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="https://github.com/ajayv2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-white.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/ajayv2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
