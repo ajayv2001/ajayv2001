@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm96ZDg3dXdicGx0a2ZuNW93aDVudDc1amN3NWMyeGNhNDFoeXh2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning ** Mobile app development**
+- 🌱 I’m currently learning Mobile app development
 - 💬 Ask me about **Full Stack Development, MERN Stack, Java Full Stack, Microservices**
 - 📫 How to reach me: **ajayvnair61@gmail.com**
 - 📄 My Resume: [Resume](https://drive.google.com/file/d/1kv743Iynj7AGRttRB3Xn-g998K3Y8iiR/view?usp=sharing)
